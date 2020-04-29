@@ -2,7 +2,6 @@ import requests
 import json
 import logging
 from auth import DEFAULT_SLACK_WEBHOOK
-
 HEADERS = {
     'Content-type': 'application/json'
 }
