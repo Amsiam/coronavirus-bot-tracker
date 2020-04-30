@@ -1,6 +1,6 @@
 # CoronaVirus Bot for Bangladesh (Covid19)
 
-![Corona SlackBot by Amsam]
+[Corona SlackBot by Amsiam]
 
 ## YouTube Demo
 - Check the demo for how this works on YouTube [here](http://bit.ly/2UpI7ga).
