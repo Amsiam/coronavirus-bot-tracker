@@ -10,10 +10,8 @@
 - Get Slack notifications (picture below)
   -  New Corona Virus cases happening in Bangladesh
   -  How many Bangladeshn nationals have Corona Virus per State?
-  -  How many deaths happened per State?
-  -  The new States entering the corona zone like Chattisgarh
 - Too many updates? Subscribe only to the states that you want.
-- Its reliable - the source of data is official Government site ([here](http://covid19tracker.gov.bd/api/district))
+- Its reliable - the source of data is official Government site ([here](http://covid19tracker.gov.bd))
 - Its ROBUST! 
   - What if script fails? What if the Govt website changes format?
   - You get Slack notifications about the exceptions too.
@@ -28,7 +26,6 @@
 ```bash
 pip install tabulate
 pip install requests
-pip install beautifulsoup4
 ```
 - Clone this repo and create auth.py
 ```bash
