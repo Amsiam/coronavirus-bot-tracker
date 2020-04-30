@@ -3,7 +3,6 @@ import json
 import requests
 import argparse
 import logging
-from bs4 import BeautifulSoup
 from tabulate import tabulate
 from slack_client import slacker
 
